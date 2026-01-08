@@ -12,7 +12,7 @@ The Smart School Management System centralizes student enrollment, attendance tr
 * **Frontend:** React.js, Redux (Toolkit), Material UI (MUI), Styled Components
 * **Backend:** Node.js, Express.js
 * **Database:** MongoDB, Mongoose
-* **Tools/DevOps:** Netlify, Git, VS Code
+* **Tools/DevOps:** Vercel, Git, VS Code
 
 ---
 
