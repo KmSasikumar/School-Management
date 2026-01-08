@@ -1,4 +1,4 @@
-# MERN School Management System
+# School Management System
 
 A complete school management system built using the MERN (MongoDB, Express, React, Node.js) stack. The application helps administrators, teachers, and students manage their day-to-day academic operations.
 
