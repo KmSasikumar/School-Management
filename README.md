@@ -47,7 +47,7 @@ graph TD
 
     subgraph "Backend (Node.js + Express)"
         API[REST API Controllers]
-        Auth[Authentication (Bcrypt)]
+        Auth["Authentication (Bcrypt)"]
         Routes[Express Router]
     end
 
